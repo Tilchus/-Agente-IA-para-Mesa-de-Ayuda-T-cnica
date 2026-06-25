@@ -8,7 +8,7 @@ from PIL import Image, ImageTk  # Importación necesaria para redimensionar
 class AppNexiGUI:
     def __init__(self, root):
         self.root = root
-        self.root.title("NEXO GRIDS - Soporte IT")
+        self.root.title("NEXI- Soporte IT")
         self.root.geometry("500x650") # Aumenté un poco el alto para mayor comodidad
         
         # 1. Definición de Paleta Corporativa (Estilo Profesional)
