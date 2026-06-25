@@ -39,6 +39,8 @@ Una vez configurado, ejecutá el siguiente comando en tu terminal:
 `python "Agente de ayuda Tecnica.py"`
 
 ---
+## 💡Extras: 
+ visual logo imagen.png (opcional)
 
 ## 💡 ¿Qué esperar al ejecutar?
 
