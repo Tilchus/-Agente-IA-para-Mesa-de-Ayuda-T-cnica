@@ -36,7 +36,7 @@ Desde la terminal, ejecutá el comando para descargar las dependencias:
 
 ### ▶️ 4. Ejecución del Agente
 Una vez configurado, ejecutá el siguiente comando en tu terminal:
-`python "Agente de ayuda Tecnica.py"`
+`python "main_guiNexi2.py"`
 
 ---
 ## 💡Extras: 
